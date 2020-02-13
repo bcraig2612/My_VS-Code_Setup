@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(80, 79, 76);
+}
+.container {
+    background-color: gainsboro;
+}
+a.dropdown-item {
+    border-bottom: 1px solid black;
+}
+.dropdown-menu {
+    padding: 0px;
+}
+.dropdown-menu#one > * {
+    border: whitesmoke 1px inset;
+    background-color: #0062CC;
+    color: whitesmoke;
+    
+}
+.dropdown-menu#two > * {
+    border: whitesmoke 1px inset;
+    background-color: #218838;
+    color: whitesmoke;
+    
+}
+.dropdown-menu#three > * {
+    border: whitesmoke 1px inset;
+    background-color: #C82333;
+    color: whitesmoke;
+    
+}
